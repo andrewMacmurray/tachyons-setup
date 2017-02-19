@@ -1,6 +1,6 @@
 # Tachyons Setup
 
-A quick and customisable setup for using tachyons in a project with postCSS
+A quick and customisable setup for using [tachyons](http://tachyons.io/) in a project with [postCSS](http://postcss.org/)
 
 to add to your project:
 
