@@ -1,0 +1,30 @@
+{
+  "name": "tachyons-setup",
+  "version": "1.0.0",
+  "description": "A quick setup for using tachyons in a project with postCSS",
+  "main": "index.js",
+  "scripts": {
+    "css": "postcss --watch --config postcss-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewMacmurray/tachyons-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewMacmurray/tachyons-setup/issues"
+  },
+  "homepage": "https://github.com/andrewMacmurray/tachyons-setup#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.3",
+    "postcss-clean": "^1.0.2",
+    "postcss-cli": "^2.6.0",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-custom-properties": "^5.0.2",
+    "postcss-import": "^9.1.0"
+  },
+  "dependencies": {
+    "tachyons-custom": "^4.5.4"
+  }
+}
