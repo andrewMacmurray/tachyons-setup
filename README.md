@@ -18,4 +18,4 @@ to compile the css run:
 
 this will make `style.min.css` containing all the styles in the root directory
 
-to change where postcss looks for your css files and outputs `style.min.css` edit the `input` and `output` fields in the `postcss-config.js` file
+to change where postCSS looks for your css files and outputs `style.min.css` edit the `input` and `output` fields in the `postcss-config.js` file
